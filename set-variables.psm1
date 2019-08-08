@@ -33,3 +33,4 @@ Function Invoke-mapSecrets {
     }
   }    
 }
+Export-ModuleMember -Function Invoke-mapSecrets
